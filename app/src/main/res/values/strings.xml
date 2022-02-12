@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge2</string>
+    <string name="skip">skip</string>
+    <string name="second_description">E entenda as contribuições que nossos colegas fazem para nossas equipes e empresas.</string>
+    <string name="next">next</string>
+    <string name="frist_tittle">Acompanhe seu trabalho e veja o resultado.</string>
+    <string name="frist_description">Lembre-se de manter o controle de suas realizações profissionais.</string>
+    <string name="second_tittle">Mantenha-se organizado com a equipe.</string>
+</resources>
